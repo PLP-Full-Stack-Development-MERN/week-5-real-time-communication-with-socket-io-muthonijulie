@@ -17,3 +17,6 @@ UseState-allows addition of state to functional components
 UseEffect-allows performance of side effects to the components
 UseParams-returns a dynamic parameter of the URL that the user is currently on.
 
+Deployement link:
+Frontend:https://socket-frontend-mauve.vercel.app/
+Backend:https://socketbackend-4ywb.onrender.com
